@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DAWAsset" id="{230d3e7a-e597-444b-ae64-f6bae5500d40}">
+		<property name="assetPath">
+			<value>squire.rpp.link/pawn_destroy_01.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.82458333333333333</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a8246d96-f5fc-4cad-bf5e-ffce10143022}</destination>
+		</relationship>
+		<relationship name="project">
+			<destination>{03c1244b-a744-4227-8086-699d882f912d}</destination>
+		</relationship>
+	</object>
+</objects>

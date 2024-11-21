@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DAWProject" id="{03c1244b-a744-4227-8086-699d882f912d}">
+		<property name="assetPath">
+			<value>squire.rpp.link/</value>
+		</property>
+		<property name="dawProjectPath">
+			<value>C:/Users/kiddi/Documents/REAPER Media/GameProjects/Askverk/squire/squire.rpp</value>
+		</property>
+		<property name="renderedAssetsPath">
+			<value>Render</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a8246d96-f5fc-4cad-bf5e-ffce10143022}</destination>
+		</relationship>
+	</object>
+</objects>
