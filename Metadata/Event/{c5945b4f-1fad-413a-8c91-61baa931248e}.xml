@@ -5,7 +5,7 @@
 			<value>sfx_pawn_move</value>
 		</property>
 		<property name="outputFormat">
-			<value>2</value>
+			<value>0</value>
 		</property>
 		<relationship name="folder">
 			<destination>{ca237a53-8de6-4a1c-9aec-4476be3dc2b9}</destination>
@@ -120,7 +120,6 @@
 	<object class="MixerBusEffectChain" id="{66c94118-f67f-40c9-9858-5228ee6dd0f6}">
 		<relationship name="effects">
 			<destination>{44c3e6ee-3401-4dfc-99af-bab9e98f6f00}</destination>
-			<destination>{955abf44-404d-4cad-bfaa-5f4e6af1a3d5}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{96f9b3b0-b23e-4bcd-8e22-dfe5799b2382}" />
@@ -132,10 +131,5 @@
 	</object>
 	<object class="MixerBusPanner" id="{7ae1f053-5507-470c-a3ac-bb77930f0d43}" />
 	<object class="MixerBusFader" id="{44c3e6ee-3401-4dfc-99af-bab9e98f6f00}" />
-	<object class="SpatialiserEffect" id="{955abf44-404d-4cad-bfaa-5f4e6af1a3d5}">
-		<property name="distanceRolloffType">
-			<value>4</value>
-		</property>
-	</object>
 	<object class="MixerBusFader" id="{004ff424-7b37-4046-8f66-b8dbdd8967ec}" />
 </objects>

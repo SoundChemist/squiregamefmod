@@ -5,7 +5,7 @@
 			<value>sfx_pawn_flanking</value>
 		</property>
 		<property name="outputFormat">
-			<value>2</value>
+			<value>0</value>
 		</property>
 		<relationship name="folder">
 			<destination>{ca237a53-8de6-4a1c-9aec-4476be3dc2b9}</destination>
@@ -120,7 +120,6 @@
 	<object class="MixerBusEffectChain" id="{8bfc30e4-2355-41dc-9283-b7d28b8bf49d}">
 		<relationship name="effects">
 			<destination>{dc8a2659-e825-4d4a-81dc-f61c79cf9551}</destination>
-			<destination>{7d751292-d68a-4821-9633-b7badbebfede}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{6436f9e7-6183-456a-8f5e-4cb393aafef1}" />
@@ -132,10 +131,5 @@
 	</object>
 	<object class="MixerBusPanner" id="{12391cb2-1f10-4b8c-bc84-68a0ba936ac1}" />
 	<object class="MixerBusFader" id="{dc8a2659-e825-4d4a-81dc-f61c79cf9551}" />
-	<object class="SpatialiserEffect" id="{7d751292-d68a-4821-9633-b7badbebfede}">
-		<property name="distanceRolloffType">
-			<value>4</value>
-		</property>
-	</object>
 	<object class="MixerBusFader" id="{050ee7fa-944b-41d5-8f64-18f8d386adbc}" />
 </objects>
