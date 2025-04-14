@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="DAWAsset" id="{c484e29b-ea94-41a0-91d2-26a51852e4d3}">
+	<object class="DAWAsset" id="{bbd5fbb1-80d7-45f2-8bc8-838f5cf2b69f}">
 		<property name="assetPath">
-			<value>squire.rpp.link/pawn_select_01.wav</value>
+			<value>squire.rpp.link/pawn_select_02.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>
@@ -11,7 +11,7 @@
 			<value>1</value>
 		</property>
 		<property name="length">
-			<value>0.072354166666666664</value>
+			<value>0.095458333333333339</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{a8246d96-f5fc-4cad-bf5e-ffce10143022}</destination>
