@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{6e5171a6-6674-446a-bc22-98d1b9f26af0}">
+		<property name="assetPath">
+			<value>main menu music v3.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>178.28570833333333</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a8246d96-f5fc-4cad-bf5e-ffce10143022}</destination>
+		</relationship>
+	</object>
+</objects>
