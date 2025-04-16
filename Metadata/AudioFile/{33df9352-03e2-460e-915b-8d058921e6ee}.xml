@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{33df9352-03e2-460e-915b-8d058921e6ee}">
+		<property name="assetPath">
+			<value>Unhappy/VOXReac_Disappointment Subtle_Heather ndrews F UK_Boring Reactions.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>2.9866666666666668</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a8246d96-f5fc-4cad-bf5e-ffce10143022}</destination>
+		</relationship>
+	</object>
+</objects>
