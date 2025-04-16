@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{17c079bd-00b4-4af4-bbbe-1673eee42f38}">
+		<property name="assetPath">
+			<value>Cheering/VOXReac_Happy Dramatic_Brad Colbroock M US_Boring Reactions.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>1.8829583333333333</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a8246d96-f5fc-4cad-bf5e-ffce10143022}</destination>
+		</relationship>
+	</object>
+</objects>

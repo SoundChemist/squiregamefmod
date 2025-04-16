@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{39ec745b-37ec-4f20-8115-ee25eaa44387}">
+		<property name="assetPath">
+			<value>Cheering/CRWDCheer_Short Affirmative Cheer_ShaneVincent_GSC24_XY-AKG214-96k.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2.9287916666666667</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a8246d96-f5fc-4cad-bf5e-ffce10143022}</destination>
+		</relationship>
+	</object>
+</objects>
