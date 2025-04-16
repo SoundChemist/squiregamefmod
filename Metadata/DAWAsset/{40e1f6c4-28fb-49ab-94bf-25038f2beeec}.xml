@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DAWAsset" id="{40e1f6c4-28fb-49ab-94bf-25038f2beeec}">
+		<property name="assetPath">
+			<value>squire.rpp.link/pawn_attack_impact_01.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.25443749999999998</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a8246d96-f5fc-4cad-bf5e-ffce10143022}</destination>
+		</relationship>
+		<relationship name="project">
+			<destination>{03c1244b-a744-4227-8086-699d882f912d}</destination>
+		</relationship>
+	</object>
+</objects>
